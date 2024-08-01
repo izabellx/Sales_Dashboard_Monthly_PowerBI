@@ -33,7 +33,7 @@ month.
 
 
 # Report
-![Dashboard](https://github.com/user-attachments/assets/9bae2374-b46c-4e7e-a7d7-b1a571cdc799)
+![Dashboard](https://github.com/user-attachments/assets/f235a841-239e-4b6c-98d2-71e8609280db)
 
 # Insights
 
